@@ -70,7 +70,7 @@ Over time, I transitioned to **Python** and started diving deeper into **Machine
 
 ##  Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/youssefelamine/)  
-📧 **youssef.alamine@gmail.com**
+**[LinkedIn](https://www.linkedin.com/in/youssefelamine/)**  
+ **youssef.alamine@gmail.com**
 
 
