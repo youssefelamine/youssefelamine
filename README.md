@@ -15,7 +15,7 @@ These early projects helped me explore how things work under the hood — from o
 
 Over time, I transitioned to **Python** and started diving deeper into **Machine Learning** — exploring data-driven intelligence, privacy-preserving models, and distributed learning systems.  
 
-> My repositories reflect this journey — from foundational CS projects to hands-on AI and ML experiments.
+
 
 
 
