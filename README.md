@@ -30,26 +30,15 @@ Over time, I transitioned to **Python** and started diving deeper into **Machine
 -  **Multithreading & Synchronization Demo (Java)** – Demonstrates multithreaded programming
 
 
+## Federated Learning & Research
+*Projects in decentralized intelligence and privacy-preserving learning.*
 
-###  **AI & Machine Learning**
-> Exploring algorithms, data, and learning systems using **Python**.
-
--  **ML From Scratch** – Core ML algorithms implemented manually with NumPy.  
--  **ML Playground** – Experiments using scikit-learn and real-world datasets.  
--  **Feature Engineering Sandbox** – Preprocessing, feature selection, and data analysis.
-
-
-
-###  **Federated Learning & Research**
-> Advanced research projects focusing on distributed intelligence and privacy.  
-
--  **Federated Learning Prototype** – Simulating decentralized model training.  
--  **Split Federated Learning** – Collaborative learning without data sharing.
-
-
-
-###  **Experimental Zone**
-> A space for creative experiments and side projects.
+- **SplitFed Hybrid Model :** Studying impact of cut layer on collaborative learning.
+- **Distributed Learning :**  
+    Directories:  
+    - `Adversarial_Attacks_Robustness`  
+    - `Data_Heterogeneity_Algorithms`  
+    - `Federated_Learning_Core`
 
 
 
@@ -62,7 +51,7 @@ Over time, I transitioned to **Python** and started diving deeper into **Machine
 
 **Frameworks & Tools:**  
 `PyTorch` · `TensorFlow` · `scikit-learn` · `NumPy` · `Pandas` · `Matplotlib`  
-`Linux` · `Git` · `VS Code` · `Jupyter Notebook`
+`Linux` · `Git` · `Jupyter Notebook` · `Docker`
 
 
 
