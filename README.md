@@ -40,7 +40,18 @@ Over time, I transitioned to **Python** and started diving deeper into **Machine
     - `Data_Heterogeneity_Algorithms`  
     - `Federated_Learning_Core`
 
+## Reinforcement Learning
 
+Projects exploring RL algorithms, stochastic approximation, and environment design.
+
+- **ReinforcementL-StochApprox** – Experiments with stochastic approximation methods in reinforcement learning 
+- **ReinforcementL-GridWorld_Traps** – GridWorld environments with traps to study exploration–exploitation trade-offs, reward shaping, and policy robustness.
+
+## Developer Productivity & AI Agents
+
+Tools that use AI to streamline the software development workflow.
+
+- **git_commit_multi_agent** – AI-powered Git commit generator using Ollama and OpenChat 7B, with a three-agent pipeline that analyzes diffs and generates conventional commit messages locally with zero API costs.
 
 
 
