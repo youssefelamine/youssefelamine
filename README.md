@@ -58,7 +58,7 @@ Tools that use AI to streamline the software development workflow.
 Benchmarking and implementing novel graph algorithms.
 
 - **beating_dijkstra** – Benchmarking Dijkstra vs BMSSP, a new shortest-path algorithm, to evaluate performance trade-offs and efficiency gains.
-- **bmssp_c** – Low-level implementation of the BMSSP algorithm in C, focusing on performance and memory efficiency.
+- **bmssp_C** – Low-level implementation of the BMSSP algorithm in C, focusing on performance and memory efficiency.
 
 
 ##  Tech Stack
