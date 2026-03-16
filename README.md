@@ -30,11 +30,11 @@ Over time, I transitioned to **Python** and started diving deeper into **Machine
 -  **Multithreading & Synchronization Demo (Java)** – Demonstrates multithreaded programming
 
 
-## Federated Learning & Research
+## Distributed Learning 
 *Projects in decentralized intelligence and privacy-preserving learning.*
 
-- **SplitFed Hybrid Model :** Studying impact of cut layer on collaborative learning.
-- **Distributed Learning :**  
+- **Split Federated Hybrid Model :** Studying impact of cut layer on collaborative learning.
+- **Federated Learning :**  
     Directories:  
     - `Adversarial_Attacks_Robustness`  
     - `Data_Heterogeneity_Algorithms`  
@@ -53,6 +53,12 @@ Tools that use AI to streamline the software development workflow.
 
 - **git_commit_multi_agent** – AI-powered Git commit generator using Ollama and OpenChat 7B, with a three-agent pipeline that analyzes diffs and generates conventional commit messages locally with zero API costs.
 
+## Algorithms & Performance
+
+Benchmarking and implementing novel graph algorithms.
+
+- **beating_dijkstra** – Benchmarking Dijkstra vs BMSSP, a new shortest-path algorithm, to evaluate performance trade-offs and efficiency gains.
+- **bmssp_c** – Low-level implementation of the BMSSP algorithm in C, focusing on performance and memory efficiency.
 
 
 ##  Tech Stack
