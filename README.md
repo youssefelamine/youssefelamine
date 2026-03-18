@@ -21,7 +21,7 @@ Over time, I transitioned to **Python** and started diving deeper into **Machine
 
 ##  What You’ll Find Here
 
-###  **Core CS & Systems (Bachelor’s Phase)**
+###  **Core CS & Systems **
 > Projects built using **C, C++, and Java**, showcasing fundamental computer science concepts.  
 
 -  **Thread Scheduler Simulation (C++)** – CPU scheduling algorithms and multithreading.  
