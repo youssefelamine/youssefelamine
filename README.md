@@ -11,9 +11,9 @@
 I’m an AI enthusiast currently pursuing my **Master’s degree in AI for Connected Industries at CNAM Paris**.
 
 My journey began during my **Bachelor’s in Computer Science at LIU (Lebanese International University)**, where I developed a strong foundation in programming and computer systems using **C, C++, and Java**.  
-These early projects helped me explore how things work under the hood — from operating system scheduling to object-oriented design and system simulation.
+These early projects helped me explore how things work under the hood. From operating system scheduling to object-oriented design and system simulation.
 
-Over time, I transitioned to **Python** and started diving deeper into **Machine Learning** — exploring data-driven intelligence, privacy-preserving models, and distributed learning systems.  
+Over time, I transitioned to **Python** and started diving deeper into **Machine Learning**, exploring data-driven intelligence, privacy-preserving models, and distributed learning systems.  
 
 
 
