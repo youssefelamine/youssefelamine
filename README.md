@@ -1,82 +1,109 @@
-#  Hi, I'm Youssef El Amine  
+Hi, I’m Youssef El Amine 
 
- **MSc Student in Artificial Intelligence for Connected Industries — CNAM Paris**  
- **BSc in Computer Science — LIU, Lebanon**  
- Passionate about AI, Machine Learning, and Intelligent Systems  
+I work on machine learning, reinforcement learning, distributed intelligence, and algorithmic experimentation, with an interest in understanding how intelligent systems behave under practical computational and systems constraints.
 
+My work spans experimental machine learning research, distributed learning, reinforcement learning, algorithms, and systems programming.
 
+⸻
 
-##  About Me
+Educational Background
 
-I’m an AI enthusiast currently pursuing my **Master’s degree in AI for Connected Industries at CNAM Paris**.
+MSc — Artificial Intelligence for Connected Industries
+Conservatoire national des arts et métiers (CNAM), Paris, France
 
-My journey began during my **Bachelor’s in Computer Science at LIU (Lebanese International University)**, where I developed a strong foundation in programming and computer systems using **C, C++, and Java**.  
-These early projects helped me explore how things work under the hood. From operating system scheduling to object-oriented design and system simulation.
+Graduate studies focused on artificial intelligence and machine learning for connected and distributed systems, combining theoretical foundations with research-oriented and applied projects.
 
-Over time, I transitioned to **Python** and started diving deeper into **Machine Learning**, exploring data-driven intelligence, privacy-preserving models, and distributed learning systems.  
+BSc — Computer Science
+Lebanese International University (LIU), Lebanon
 
+Built a foundation in algorithms, data structures, operating systems, object-oriented programming, concurrency, and software development using C, C++, and Java.
 
+⸻
 
+Research & Machine Learning
 
+Continual Learning
 
-##  What You’ll Find Here
+Prediction Error Valuation for Continual Learning
+Experimental work investigating prediction-error-based valuation in continual learning settings.
 
-###  **Core CS & Systems **
-> Projects built using **C, C++, and Java**, showcasing fundamental computer science concepts.  
+Federated & Distributed Learning
 
--  **Thread Scheduler Simulation (C++)** – CPU scheduling algorithms and multithreading.  
--  **MiniShell (C)** – Lightweight command-line shell.  
--  **OOP Library Management System (Java)** – Object-oriented design with file-based storage.  
--  **Multithreading & Synchronization Demo (Java)** – Demonstrates multithreaded programming
+Split Federated Learning — Cut Layer Impact
+Experimental study of how neural-network cut-layer placement affects split federated learning.
 
+Federated Learning
+Implementations and experiments covering core federated-learning concepts, data heterogeneity, and adversarial robustness.
 
-## Distributed Learning 
-*Projects in decentralized intelligence and privacy-preserving learning.*
+Reinforcement Learning
 
-- **Split Federated Hybrid Model :** Studying impact of cut layer on collaborative learning.
-- **Federated Learning :**  
-    Directories:  
-    - `Adversarial_Attacks_Robustness`  
-    - `Data_Heterogeneity_Algorithms`  
-    - `Federated_Learning_Core`
+GridWorld with Traps
+GridWorld experiments examining exploration–exploitation, reward design, and policy behavior in environments containing traps.
 
-## Reinforcement Learning
+Stochastic Approximation for RL
+Experiments with stochastic-approximation methods underlying reinforcement-learning algorithms.
 
-Projects exploring RL algorithms, stochastic approximation, and environment design.
+Neural Cellular Automata
 
-- **ReinforcementL-StochApprox** – Experiments with stochastic approximation methods in reinforcement learning 
-- **ReinforcementL-GridWorld_Traps** – GridWorld environments with traps to study exploration–exploitation trade-offs, reward shaping, and policy robustness.
+Neural Cellular Automata
+Experiments with learned local update rules and emergent spatial behavior in neural cellular automata.
 
-## Developer Productivity & AI Agents
+⸻
 
-Tools that use AI to streamline the software development workflow.
+Algorithms & Computational Experiments
 
-- **git_commit_multi_agent** – AI-powered Git commit generator using Ollama and OpenChat 7B, with a three-agent pipeline that analyzes diffs and generates conventional commit messages locally with zero API costs.
+Kaprekar Dynamics
 
-## Algorithms & Performance
+Kaprekar Dynamics
+An exhaustive computational study of Kaprekar dynamics, from the classical four-digit 6174 system to generalized fixed-width systems across multiple numerical bases.
 
-Benchmarking and implementing novel graph algorithms.
+The project treats the transformation as a finite dynamical system and analyzes convergence depth, attractors, cycles, basins, and state-space reductions.
 
-- **beating_dijkstra** – Benchmarking Dijkstra vs BMSSP, a new shortest-path algorithm, to evaluate performance trade-offs and efficiency gains.
-- **bmssp_C** – Low-level implementation of the BMSSP algorithm in C, focusing on performance and memory efficiency.
+Shortest-Path Algorithms
 
+Beating Dijkstra
+Experimental benchmarking of Dijkstra’s algorithm against BMSSP, examining practical runtime and performance trade-offs.
 
-##  Tech Stack
+BMSSP in C
+Low-level implementation and study of BMSSP with an emphasis on algorithmic behavior, memory use, and performance.
 
-**Languages:**  
-`Python` · `C++` · `Java` · `C`
+⸻
 
-**Frameworks & Tools:**  
-`PyTorch` · `TensorFlow` · `scikit-learn` · `NumPy` · `Pandas` · `Matplotlib`  
-`Linux` · `Git` · `Jupyter Notebook` · `Docker`
+Systems & Software Foundations
 
+Projects exploring operating systems, concurrency, low-level programming, and object-oriented software design.
 
+Thread Scheduler Simulation — C++ implementation exploring CPU scheduling and thread-management concepts.
 
+MiniShell — Lightweight Unix-style command-line shell implemented in C.
 
+Java Multithreading — Experiments with threads, synchronization, and concurrent programming in Java.
 
-##  Connect with Me
+OOP Library System — Java library-management system demonstrating object-oriented design and file-based persistence.
 
-**[LinkedIn](https://www.linkedin.com/in/youssefelamine/)**  
- **youssef.alamine@gmail.com**
+⸻
 
+AI-Assisted Developer Tools
 
+Git Commit Multi-Agent
+Multi-agent commit-message generator using local LLM inference with Ollama and OpenChat 7B. The pipeline analyzes Git diffs and generates conventional commit messages without requiring an external API.
+
+⸻
+
+Technical Stack
+
+Languages
+Python · C · C++ · Java
+
+Machine Learning & Scientific Computing
+PyTorch · TensorFlow · scikit-learn · NumPy · pandas · Matplotlib
+
+Tools & Environments
+Linux · Git · Docker · Jupyter · LaTeX
+
+⸻
+
+Connect
+
+LinkedIn: youssefelamine
+Email: youssef.alamine@gmail.com
